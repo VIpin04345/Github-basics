@@ -9,3 +9,7 @@
 
 4. git config --global color.ui auto
 ➡️ Enables automatic coloring of Git output in the terminal for better readability.
+
+
+git --version
+➡️ Shows the currently installed Git version on your system.
