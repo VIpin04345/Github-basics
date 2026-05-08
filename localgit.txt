@@ -16,3 +16,6 @@
 
 6. git init
 ➡️ Initializes a new Git repository in your current folder.
+
+7.git status
+➡️ Shows the current state of your Git repository.
