@@ -1,7 +1,11 @@
-git config -l
+1. git config -l
+➡️ Displays all Git configuration settings currently applied (both global and local).
 
-git config --global user.name "user name"
+2. git config --global user.name "user name"
+➡️ Sets your username globally for Git; this name will be attached to all your commits.
 
-git config --global user.email "xyz@gmail.com"
+3. git config --global user.email "xyz@gmail.com"
+➡️ Sets your email globally for Git; this email is used to identify you in commits.
 
-git config --global color.ui auto
+4. git config --global color.ui auto
+➡️ Enables automatic coloring of Git output in the terminal for better readability.
