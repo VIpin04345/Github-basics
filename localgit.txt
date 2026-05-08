@@ -22,3 +22,6 @@
 
 8. git add "file name"
 ➡️ Adds a specific file to the staging area.
+
+9. git add .
+➡️ Adds all files (new, modified, and deleted) in the current directory to the staging area.
