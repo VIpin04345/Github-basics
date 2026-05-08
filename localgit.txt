@@ -11,5 +11,8 @@
 ➡️ Enables automatic coloring of Git output in the terminal for better readability.
 
 
-git --version
+5. git --version
 ➡️ Shows the currently installed Git version on your system.
+
+6. git init
+➡️ Initializes a new Git repository in your current folder.
