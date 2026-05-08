@@ -19,3 +19,6 @@
 
 7.git status
 ➡️ Shows the current state of your Git repository.
+
+8. git add "file name"
+➡️ Adds a specific file to the staging area.
