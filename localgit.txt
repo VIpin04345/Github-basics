@@ -40,3 +40,6 @@ git diff
 
 git diff "file name"
 ➡️ Shows the changes made in a specific file compared to the last committed version.
+
+git commit -m "msg"
+➡️ Saves the staged changes to the repository with a message.
