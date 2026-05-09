@@ -25,3 +25,6 @@
 
 9. git add .
 ➡️ Adds all files (new, modified, and deleted) in the current directory to the staging area.
+
+git add abc*
+➡️ Adds all files whose names start with abc to the staging area.
