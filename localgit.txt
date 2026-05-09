@@ -28,3 +28,6 @@
 
 git add abc*
 ➡️ Adds all files whose names start with abc to the staging area.
+
+git reset "file name"
+➡️ Removes the specified file from the staging area.
