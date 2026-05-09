@@ -26,23 +26,23 @@
 9. git add .
 ➡️ Adds all files (new, modified, and deleted) in the current directory to the staging area.
 
-git add abc*
+10. git add abc*
 ➡️ Adds all files whose names start with abc to the staging area.
 
-git reset "file name"
+11. git reset "file name"
 ➡️ Removes the specified file from the staging area.
 
-git rm --cached "file name"
+12. git rm --cached "file name"
 ➡️ Removes the file from Git tracking, but keeps it in your local folder.
 
-git diff
+13. git diff
 ➡️ Shows the differences between your working files and the last committed version.
 
-git diff "file name"
+14. git diff "file name"
 ➡️ Shows the changes made in a specific file compared to the last committed version.
 
-git commit -m "msg"
+15. git commit -m "msg"
 ➡️ Saves the staged changes to the repository with a message.
 
-git commit -a -m "msg"
+16. git commit -a -m "msg"
 ➡️ Commits all modified and deleted tracked files with a message, without using git add.
