@@ -37,3 +37,6 @@ git rm --cached "file name"
 
 git diff
 ➡️ Shows the differences between your working files and the last committed version.
+
+git diff "file name"
+➡️ Shows the changes made in a specific file compared to the last committed version.
