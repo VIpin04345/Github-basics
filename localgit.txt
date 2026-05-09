@@ -31,3 +31,6 @@ git add abc*
 
 git reset "file name"
 ➡️ Removes the specified file from the staging area.
+
+git rm --cached "file name"
+➡️ Removes the file from Git tracking, but keeps it in your local folder.
