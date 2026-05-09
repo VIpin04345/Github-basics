@@ -43,3 +43,6 @@ git diff "file name"
 
 git commit -m "msg"
 ➡️ Saves the staged changes to the repository with a message.
+
+git commit -a -m "msg"
+➡️ Commits all modified and deleted tracked files with a message, without using git add.
