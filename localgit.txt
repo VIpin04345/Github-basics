@@ -34,3 +34,6 @@ git reset "file name"
 
 git rm --cached "file name"
 ➡️ Removes the file from Git tracking, but keeps it in your local folder.
+
+git diff
+➡️ Shows the differences between your working files and the last committed version.
