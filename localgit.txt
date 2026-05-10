@@ -58,3 +58,6 @@ git reflog
 
 git show "commit hash"
 ➡️ Shows the commit history starting from the specified commit.
+
+git rm "file name"
+➡️ Deletes the file from your working directory and removes it from Git tracking.
