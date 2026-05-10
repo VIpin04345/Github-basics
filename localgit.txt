@@ -55,3 +55,6 @@ git log -p
 
 git reflog
 ➡️ Shows a log of all recent actions (like commits, checkouts, resets) performed in your local repository.
+
+git log "commit hash"
+➡️ Shows the commit history starting from the specified commit.
