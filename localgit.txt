@@ -52,3 +52,6 @@ git log
 
 git log -p
 ➡️ Shows the commit history along with the changes (diff) made in each commit.
+
+git reflog
+➡️ Shows a log of all recent actions (like commits, checkouts, resets) performed in your local repository.
