@@ -38,6 +38,7 @@
 13. git diff
 ➡️ Shows the differences between your working files and the last committed version.
 
+
 14. git diff "file name"
 ➡️ Shows the changes made in a specific file compared to the last committed version.
 
