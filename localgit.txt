@@ -46,3 +46,6 @@
 
 16. git commit -a -m "msg"
 ➡️ Commits all modified and deleted tracked files with a message, without using git add.
+
+git log
+➡️ Shows the commit history of the repository.
