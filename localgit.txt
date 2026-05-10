@@ -49,3 +49,6 @@
 
 git log
 ➡️ Shows the commit history of the repository.
+
+git log -p
+➡️ Shows the commit history along with the changes (diff) made in each commit.
