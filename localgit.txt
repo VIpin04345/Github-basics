@@ -47,17 +47,17 @@
 16. git commit -a -m "msg"
 ➡️ Commits all modified and deleted tracked files with a message, without using git add.
 
-git log
+17. git log
 ➡️ Shows the commit history of the repository.
 
-git log -p
+18. git log -p
 ➡️ Shows the commit history along with the changes (diff) made in each commit.
 
-git reflog
+19. git reflog
 ➡️ Shows a log of all recent actions (like commits, checkouts, resets) performed in your local repository.
 
-git show "commit hash"
+20. git show "commit hash"
 ➡️ Shows the commit history starting from the specified commit.
 
-git rm "file name"
+g21. it rm "file name"
 ➡️ Deletes the file from your working directory and removes it from Git tracking.
