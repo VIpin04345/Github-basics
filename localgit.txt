@@ -60,5 +60,8 @@
 20. git show "commit hash"
 ➡️ Shows the commit history starting from the specified commit.
 
-g21. it rm "file name"
+21. git rm "file name"
 ➡️ Deletes the file from your working directory and removes it from Git tracking.
+
+git reset HEAD "file name"
+➡️ Removes the specified file from the staging area (unstages it).
