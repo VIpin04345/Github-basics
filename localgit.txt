@@ -71,3 +71,6 @@ git reset HEAD -p
 
 git revert HEAD
 ➡️ Creates a new commit that undoes the changes made in the latest commit.
+
+git revert "commit hash"
+➡️ Creates a new commit that undoes the changes made by the specified commit.
