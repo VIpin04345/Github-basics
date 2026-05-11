@@ -65,3 +65,6 @@
 
 git reset HEAD "file name"
 ➡️ Removes the specified file from the staging area (unstages it).
+
+git reset HEAD -p
+➡️ Interactively removes parts of changes from the staging area.
