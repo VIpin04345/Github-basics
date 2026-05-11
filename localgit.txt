@@ -77,3 +77,6 @@ git revert "commit hash"
 
 git tag "tag name"
 ➡️ Creates a tag for the current commit.
+
+git checkout "tag name"
+➡️ Switches your repository to the state of the specified tag.
