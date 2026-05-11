@@ -74,3 +74,6 @@ git revert HEAD
 
 git revert "commit hash"
 ➡️ Creates a new commit that undoes the changes made by the specified commit.
+
+git tag "tag name"
+➡️ Creates a tag for the current commit.
