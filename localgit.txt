@@ -63,13 +63,13 @@
 21. git rm "file name"
 ➡️ Deletes the file from your working directory and removes it from Git tracking.
 
-git reset HEAD "file name"
+22. git reset HEAD "file name"
 ➡️ Removes the specified file from the staging area (unstages it).
 
-git reset HEAD -p
+23. git reset HEAD -p
 ➡️ Interactively removes parts of changes from the staging area.
 
-git revert HEAD
+24. git revert HEAD
 ➡️ Creates a new commit that undoes the changes made in the latest commit.
 
 git revert "commit hash"
