@@ -72,11 +72,11 @@
 24. git revert HEAD
 ➡️ Creates a new commit that undoes the changes made in the latest commit.
 
-git revert "commit hash"
+25. git revert "commit hash"
 ➡️ Creates a new commit that undoes the changes made by the specified commit.
 
-git tag "tag name"
+26. git tag "tag name"
 ➡️ Creates a tag for the current commit.
 
-git checkout "tag name"
+27. git checkout "tag name"
 ➡️ Switches your repository to the state of the specified tag.
