@@ -68,3 +68,6 @@ git reset HEAD "file name"
 
 git reset HEAD -p
 ➡️ Interactively removes parts of changes from the staging area.
+
+git revert HEAD
+➡️ Creates a new commit that undoes the changes made in the latest commit.
