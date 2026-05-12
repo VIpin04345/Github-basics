@@ -98,3 +98,6 @@
 
 33. git checkout "branchname"
 ➡️ Switches to the specified branch.
+
+git checkout -b "branchname"
+➡️ Creates a new branch and immediately switches to it.
