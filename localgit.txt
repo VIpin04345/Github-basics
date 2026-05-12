@@ -89,3 +89,6 @@ git tag --list
 
 git tag -d "tag name"
 ➡️ Deletes the specified tag from your local repository.
+
+git branch
+➡️ Lists all branches in your repository.
