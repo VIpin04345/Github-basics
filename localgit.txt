@@ -81,13 +81,13 @@
 27. git checkout "tag name"
 ➡️ Switches your repository to the state of the specified tag.
 
-git tag "tagname" <commit-hash>
+28. git tag "tagname" <commit-hash>
 ➡️ Creates a tag for a specific commit (not just the latest one).
 
-git tag --list
+29. git tag --list
 ➡️ Displays all the tags in your repository.
 
-git tag -d "tag name"
+30. git tag -d "tag name"
 ➡️ Deletes the specified tag from your local repository.
 
 git branch
