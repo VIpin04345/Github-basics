@@ -83,3 +83,6 @@
 
 git tag "tagname" <commit-hash>
 ➡️ Creates a tag for a specific commit (not just the latest one).
+
+git tag --list
+➡️ Displays all the tags in your repository.
