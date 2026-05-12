@@ -90,11 +90,11 @@
 30. git tag -d "tag name"
 ➡️ Deletes the specified tag from your local repository.
 
-git branch
+31. git branch
 ➡️ Lists all branches in your repository.
 
-git branch "branch name"
+32. git branch "branch name"
 ➡️ Creates a new branch with the given name.
 
-git checkout "branchname"
+33. git checkout "branchname"
 ➡️ Switches to the specified branch.
