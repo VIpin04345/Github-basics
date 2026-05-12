@@ -80,3 +80,6 @@
 
 27. git checkout "tag name"
 ➡️ Switches your repository to the state of the specified tag.
+
+git tag "tagname" <commit-hash>
+➡️ Creates a tag for a specific commit (not just the latest one).
