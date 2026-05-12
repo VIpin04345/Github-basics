@@ -95,3 +95,6 @@ git branch
 
 git branch "branch name"
 ➡️ Creates a new branch with the given name.
+
+git checkout "branchname"
+➡️ Switches to the specified branch.
