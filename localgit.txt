@@ -86,3 +86,6 @@ git tag "tagname" <commit-hash>
 
 git tag --list
 ➡️ Displays all the tags in your repository.
+
+git tag -d "tag name"
+➡️ Deletes the specified tag from your local repository.
