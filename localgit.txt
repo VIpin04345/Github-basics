@@ -92,3 +92,6 @@ git tag -d "tag name"
 
 git branch
 ➡️ Lists all branches in your repository.
+
+git branch "branch name"
+➡️ Creates a new branch with the given name.
