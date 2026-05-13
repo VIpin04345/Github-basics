@@ -113,3 +113,6 @@ git rebase "branch"
 
 git stash
 ➡️ Temporarily saves your uncommitted changes and cleans your working directory.
+
+git stash pop
+➡️ Applies the most recent stashed changes and removes them from the stash list.
