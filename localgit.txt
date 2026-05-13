@@ -104,3 +104,6 @@ git checkout -b "branchname"
 
 git branch -d "branch name"
 ➡️ Deletes the specified branch.
+
+git merge "feature-name"
+➡️ Merges the specified branch into your current branch.
