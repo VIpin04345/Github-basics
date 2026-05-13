@@ -99,7 +99,7 @@
 33. git checkout "branchname"
 ➡️ Switches to the specified branch.
 
-git checkout -b "branchname"
+34. git checkout -b "branchname"
 ➡️ Creates a new branch and immediately switches to it.
 
 git branch -d "branch name"
