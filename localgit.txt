@@ -110,3 +110,6 @@ git merge "feature-name"
 
 git rebase "branch"
 ➡️ Moves (reapplies) your current branch’s commits on top of another branch.
+
+git stash
+➡️ Temporarily saves your uncommitted changes and cleans your working directory.
