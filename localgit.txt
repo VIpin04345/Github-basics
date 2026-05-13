@@ -101,3 +101,6 @@
 
 git checkout -b "branchname"
 ➡️ Creates a new branch and immediately switches to it.
+
+git branch -d "branch name"
+➡️ Deletes the specified branch.
