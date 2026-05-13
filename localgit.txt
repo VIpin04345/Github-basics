@@ -114,5 +114,5 @@
 38. git stash
 ➡️ Temporarily saves your uncommitted changes and cleans your working directory.
 
-39 .git stash pop
+39. git stash pop
 ➡️ Applies the most recent stashed changes and removes them from the stash list.
