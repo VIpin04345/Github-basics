@@ -107,3 +107,6 @@ git branch -d "branch name"
 
 git merge "feature-name"
 ➡️ Merges the specified branch into your current branch.
+
+git rebase "branch"
+➡️ Moves (reapplies) your current branch’s commits on top of another branch.
