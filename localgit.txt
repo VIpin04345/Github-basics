@@ -105,10 +105,11 @@
 35. git branch -d "branch name"
 ➡️ Deletes the specified branch.
 
-36. git merge "feature-name"
+36.
+git merge "feature-name"
 ➡️ Merges the specified branch into your current branch.
 
-37.git rebase "branch"
+37. git rebase "branch"
 ➡️ Moves (reapplies) your current branch’s commits on top of another branch.
 
 38. git stash
