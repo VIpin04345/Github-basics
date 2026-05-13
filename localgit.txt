@@ -102,10 +102,10 @@
 34. git checkout -b "branchname"
 ➡️ Creates a new branch and immediately switches to it.
 
-git branch -d "branch name"
+35. git branch -d "branch name"
 ➡️ Deletes the specified branch.
 
-git merge "feature-name"
+36. git merge "feature-name"
 ➡️ Merges the specified branch into your current branch.
 
 git rebase "branch"
