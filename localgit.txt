@@ -108,11 +108,11 @@
 36. git merge "feature-name"
 ➡️ Merges the specified branch into your current branch.
 
-git rebase "branch"
+37. git rebase "branch"
 ➡️ Moves (reapplies) your current branch’s commits on top of another branch.
 
-git stash
+38. git stash
 ➡️ Temporarily saves your uncommitted changes and cleans your working directory.
 
-git stash pop
+39.git stash pop
 ➡️ Applies the most recent stashed changes and removes them from the stash list.
