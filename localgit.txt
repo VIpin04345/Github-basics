@@ -141,3 +141,6 @@ git diff --staged
 6. git mv oldname newname
 
 ➡️ Renames a file and tracks the change.
+
+git restore file
+➡️ Discards changes in a file (back to last commit)
