@@ -125,3 +125,7 @@ git stash drop
 
  git show
 ➡️ Shows details of a specific commit.
+
+git show HEAD
+
+➡️ Shows the latest commit details.
