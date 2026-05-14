@@ -119,3 +119,6 @@
 
 git stash list
 ➡️ Shows all saved stashes.
+
+git stash drop
+➡️ Deletes a specific stash from the stash list.
