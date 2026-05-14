@@ -137,3 +137,7 @@ git diff --staged
 5. git clean -f
 
 ➡️ Deletes untracked files permanently.
+
+6. git mv oldname newname
+
+➡️ Renames a file and tracks the change.
