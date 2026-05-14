@@ -117,30 +117,26 @@
 39. git stash pop
 ➡️ Applies the most recent stashed changes and removes them from the stash list.
 
-git stash list
+40. git stash list
 ➡️ Shows all saved stashes.
 
-git stash drop
+41. git stash drop
 ➡️ Deletes a specific stash from the stash list.
 
- git show
+42. git show
 ➡️ Shows details of a specific commit.
 
-git show HEAD
-
+43. git show HEAD
 ➡️ Shows the latest commit details.
 
-git diff --staged
-
+44. git diff --staged
 ➡️ Shows changes that are staged (ready to commit).
 
-5. git clean -f
-
+45. git clean -f
 ➡️ Deletes untracked files permanently.
 
-6. git mv oldname newname
-
+46. git mv oldname newname
 ➡️ Renames a file and tracks the change.
 
-git restore file
+47. git restore file
 ➡️ Discards changes in a file (back to last commit)
