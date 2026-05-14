@@ -122,3 +122,6 @@ git stash list
 
 git stash drop
 ➡️ Deletes a specific stash from the stash list.
+
+ git show
+➡️ Shows details of a specific commit.
