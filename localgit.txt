@@ -133,3 +133,7 @@ git show HEAD
 git diff --staged
 
 ➡️ Shows changes that are staged (ready to commit).
+
+5. git clean -f
+
+➡️ Deletes untracked files permanently.
