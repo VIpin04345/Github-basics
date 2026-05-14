@@ -116,3 +116,6 @@
 
 39. git stash pop
 ➡️ Applies the most recent stashed changes and removes them from the stash list.
+
+git stash list
+➡️ Shows all saved stashes.
