@@ -1,3 +1,7 @@
 1. git clone "repo-url"
 
 ➡️ Copies a remote repository to your local system
+
+2. git remote
+
+➡️ Shows connected remote repositories
