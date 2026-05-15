@@ -9,3 +9,7 @@
 3. git remote -v
 
 ➡️ Shows remote URLs (fetch + push)
+
+4. git remote add origin "url"
+
+➡️ Connects local repo to a remote repo
