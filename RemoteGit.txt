@@ -13,3 +13,7 @@
 4. git remote add origin "url"
 
 ➡️ Connects local repo to a remote repo
+
+5. git remote remove origin
+
+➡️ Removes remote connection
