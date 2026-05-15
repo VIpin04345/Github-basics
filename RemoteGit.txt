@@ -17,3 +17,7 @@
 5. git remote remove origin
 
 ➡️ Removes remote connection
+
+6. git push origin branch-name
+
+➡️ Uploads your code to GitHub
