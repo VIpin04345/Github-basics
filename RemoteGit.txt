@@ -5,3 +5,7 @@
 2. git remote
 
 ➡️ Shows connected remote repositories
+
+3. git remote -v
+
+➡️ Shows remote URLs (fetch + push)
