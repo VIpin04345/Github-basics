@@ -1,27 +1,20 @@
 1. git clone "repo-url"
-
 ➡️ Copies a remote repository to your local system
 
 2. git remote
-
 ➡️ Shows connected remote repositories
 
 3. git remote -v
-
 ➡️ Shows remote URLs (fetch + push)
 
 4. git remote add origin "url"
-
 ➡️ Connects local repo to a remote repo
 
 5. git remote remove origin
-
 ➡️ Removes remote connection
 
 6. git push origin branch-name
-
 ➡️ Uploads your code to GitHub
 
 7. git push -u origin branch-name
-
 ➡️ Push + sets upstream branch
