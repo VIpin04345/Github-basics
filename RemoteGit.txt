@@ -21,3 +21,7 @@
 6. git push origin branch-name
 
 ➡️ Uploads your code to GitHub
+
+7. git push -u origin branch-name
+
+➡️ Push + sets upstream branch
