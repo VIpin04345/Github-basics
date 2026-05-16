@@ -37,3 +37,7 @@
 12. git push origin --delete branch-name
 
 ➡️ Deletes branch from remote
+
+13. git branch -r
+
+➡️ Shows remote branches
