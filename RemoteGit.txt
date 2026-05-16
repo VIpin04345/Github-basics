@@ -29,3 +29,7 @@
 10. git fetch
 
 ➡️ Downloads latest code but does NOT merge
+
+11. git pull origin branch-name
+
+➡️ Pulls specific branch from remote
