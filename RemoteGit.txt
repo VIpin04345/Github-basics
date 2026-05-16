@@ -23,25 +23,19 @@
 ➡️ Pushes code (after upstream is set)
 
 9. git pull
-
 ➡️ Fetch + merge latest code from remote
 
 10. git fetch
-
 ➡️ Downloads latest code but does NOT merge
 
 11. git pull origin branch-name
-
 ➡️ Pulls specific branch from remote
 
 12. git push origin --delete branch-name
-
 ➡️ Deletes branch from remote
 
 13. git branch -r
-
 ➡️ Shows remote branches
 
 14. git branch -a
-
 ➡️ Shows all branches (local + remote)
