@@ -25,3 +25,7 @@
 9. git pull
 
 ➡️ Fetch + merge latest code from remote
+
+10. git fetch
+
+➡️ Downloads latest code but does NOT merge
