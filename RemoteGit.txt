@@ -41,3 +41,7 @@
 13. git branch -r
 
 ➡️ Shows remote branches
+
+14. git branch -a
+
+➡️ Shows all branches (local + remote)
