@@ -21,3 +21,7 @@
 
 8. git push
 ➡️ Pushes code (after upstream is set)
+
+9. git pull
+
+➡️ Fetch + merge latest code from remote
