@@ -50,5 +50,4 @@
 ➡️ Renames remote
 
 18. git remote show origin
-
 ➡️ Shows detailed info about remote
