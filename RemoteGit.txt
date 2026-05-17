@@ -47,3 +47,7 @@
 16. git push origin HEAD
 
 ➡️ Push current branch
+
+17. git remote rename old new
+
+➡️ Renames remote
