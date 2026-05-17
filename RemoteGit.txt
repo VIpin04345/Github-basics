@@ -47,7 +47,6 @@
 ➡️ Push current branch
 
 17. git remote rename old new
-
 ➡️ Renames remote
 
 18. git remote show origin
