@@ -44,7 +44,6 @@
 ➡️ Creates local branch from remote branch
 
 16. git push origin HEAD
-
 ➡️ Push current branch
 
 17. git remote rename old new
