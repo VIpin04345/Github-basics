@@ -41,7 +41,6 @@
 ➡️ Shows all branches (local + remote)
 
 15. git checkout -b branch origin/branch
-
 ➡️ Creates local branch from remote branch
 
 16. git push origin HEAD
