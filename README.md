@@ -43,3 +43,10 @@ It is designed for beginners as well as students preparing for interviews.
 - git reset
 - git revert
 - git restore
+
+### 🔹 Tags
+- git tag
+- git tag -d
+- git checkout tag
+
+---
