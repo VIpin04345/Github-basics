@@ -37,3 +37,9 @@ It is designed for beginners as well as students preparing for interviews.
 - git stash pop
 - git stash list
 - git stash drop
+
+
+### 🔹 Undo Changes
+- git reset
+- git revert
+- git restore
