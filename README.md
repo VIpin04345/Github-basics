@@ -31,3 +31,9 @@ It is designed for beginners as well as students preparing for interviews.
 - git checkout -b
 - git merge
 - git rebase
+
+### 🔹 Stashing
+- git stash
+- git stash pop
+- git stash list
+- git stash drop
