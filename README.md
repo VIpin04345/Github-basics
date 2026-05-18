@@ -5,3 +5,11 @@ This repository contains all essential Git and GitHub commands with clear explan
 It is designed for beginners as well as students preparing for interviews.
 
 ---
+
+
+## 🛠️ Technologies Used
+- Git
+- GitHub
+- Command Line (CLI)
+
+---
