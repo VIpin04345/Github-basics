@@ -50,3 +50,15 @@ It is designed for beginners as well as students preparing for interviews.
 - git checkout tag
 
 ---
+
+## 🌐 Remote Repository (GitHub)
+
+- git clone
+- git push
+- git pull
+- git fetch
+- git remote
+- git branch -r
+- git branch -a
+
+---
