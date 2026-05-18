@@ -23,3 +23,11 @@ It is designed for beginners as well as students preparing for interviews.
 - git commit
 - git log
 - git diff
+
+
+### 🔹 Branching
+- git branch
+- git checkout
+- git checkout -b
+- git merge
+- git rebase
