@@ -13,3 +13,13 @@ It is designed for beginners as well as students preparing for interviews.
 - Command Line (CLI)
 
 ---
+
+## 📂 Topics Covered
+
+### 🔹 Git Basics
+- git init
+- git status
+- git add
+- git commit
+- git log
+- git diff
