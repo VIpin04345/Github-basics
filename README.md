@@ -81,9 +81,15 @@ Rebase → Clean history
 Stash → Temporary save
 
 
-📸 Why This Repo?
+## 📸 Why This Repo?
 
 ✔ Beginner Friendly
 ✔ Interview Ready
 ✔ Covers Real-World Scenarios
 ✔ Clean and Simple Explanations
+
+## 🙋‍♂️ Author
+
+VIPIN YADAV
+
+GitHub: https://github.com/VIpin04345
