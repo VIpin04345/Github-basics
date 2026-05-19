@@ -83,10 +83,10 @@ git push origin feature-branch
 
 ## 📸 Why This Repo?
 
-. ✔ Beginner Friendly
-. ✔ Interview Ready
-. ✔ Covers Real-World Scenarios
-. ✔ Clean and Simple Explanations
+- ✔ Beginner Friendly
+- ✔ Interview Ready
+- ✔ Covers Real-World Scenarios
+- ✔ Clean and Simple Explanations
 
 ## 🙋‍♂️ Author
 
