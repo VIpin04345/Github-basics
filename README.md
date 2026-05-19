@@ -71,3 +71,11 @@ git checkout -b feature-branch
 git add .
 git commit -m "your message"
 git push origin feature-branch
+
+## 🎯 Key Concepts
+Repository → Project folder tracked by Git
+Commit → Snapshot of changes
+Branch → Separate line of work
+Merge → Combine branches
+Rebase → Clean history
+Stash → Temporary save
