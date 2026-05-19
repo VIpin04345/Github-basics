@@ -62,3 +62,12 @@ It is designed for beginners as well as students preparing for interviews.
 - git branch -a
 
 ---
+
+## 🔄 Real-World Workflow
+bash
+git clone <repo-url>
+git checkout -b feature-branch
+# make changes
+git add .
+git commit -m "your message"
+git push origin feature-branch
