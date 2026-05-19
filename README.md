@@ -79,3 +79,11 @@ Branch → Separate line of work
 Merge → Combine branches
 Rebase → Clean history
 Stash → Temporary save
+
+
+📸 Why This Repo?
+
+✔ Beginner Friendly
+✔ Interview Ready
+✔ Covers Real-World Scenarios
+✔ Clean and Simple Explanations
